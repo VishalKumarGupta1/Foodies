@@ -1,2 +1,8 @@
-# Foodies
-Foodies is a fully responsive dessert-themed website built with React and Framer Motion. It showcases smooth animations, user-friendly design, and clean CSS styling. This project was created to practice and demonstrate modern UI transitions using Framer Motion in a real-world scenario.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
